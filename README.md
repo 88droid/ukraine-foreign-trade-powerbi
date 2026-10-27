@@ -35,5 +35,5 @@
 
 ## Файли
 - `trade_ukraine_dashboard.pbix`: звіт Power BI Desktop
-- screenshots/overview.png
-- screenshots/partners.png
+![](screenshots/overview.png)
+![](screenshots/partners.png)
