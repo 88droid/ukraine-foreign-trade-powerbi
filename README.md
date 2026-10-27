@@ -34,6 +34,6 @@
 - Останні періоди можуть бути попередніми. Держстат уточнює дані.
 
 ## Файли
-- `trade_ukraine_dashboard.pbix`: звіт Power BI Desktop
+[`trade_ukraine_dashboard.pbix`](trade_ukraine_dashboard.pbix)
 ![](screenshots/overview.png)
 ![](screenshots/partners.png)
